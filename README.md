@@ -1,3 +1,4 @@
-# Example Package
+# Package Calculate
 
-This is a simple example package. 
+Calculates addition, subtraction, multiplication and division.
+
