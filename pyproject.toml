@@ -1,5 +1,5 @@
 [project]
-name = "calculate"
+name = "Calculate"
 version = "0.0.1"
 authors = [
   { name="Suyash Sonkesaria", email="suyashsonkesaria@gmail.com" },
@@ -14,5 +14,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/suyashsonkesaria/Python-Packages/calculate"
-"Bug Tracker" = "https://github.com/suyashsonkesaria/Python-Packages/calculate"
+"Homepage" = "https://github.com/suyashsonkesaria/calculate"
+"Bug Tracker" = "https://github.com/suyashsonkesaria/calculate/issues"
