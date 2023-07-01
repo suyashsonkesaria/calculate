@@ -1,5 +1,5 @@
 [project]
-name = "Calculate"
+name = "Calculate-asmd"
 version = "0.0.1"
 authors = [
   { name="Suyash Sonkesaria", email="suyashsonkesaria@gmail.com" },
